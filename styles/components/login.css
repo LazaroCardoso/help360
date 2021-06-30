@@ -1,0 +1,24 @@
+.login {
+    background-color: #E5E5E5;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.login__box {
+    width: 506px;
+    height: 534px;
+    background-color: white;
+    display: flex;
+
+}
+
+.loggin__box--hello {
+    font-size: 64px;
+    font-weight: 600;
+    line-height: 96px;
+    padding-top: 52px;
+    padding-left: 77px;
+}

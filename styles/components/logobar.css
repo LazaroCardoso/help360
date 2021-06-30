@@ -1,0 +1,12 @@
+.logobar {
+    background-color: #0B2239;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    
+}
+
+.logobar__img {
+    padding-left: 58px;
+    background-position: center;
+}
