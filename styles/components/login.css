@@ -4,7 +4,6 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    text-align: center;
 }
 
 .login__box {
@@ -12,13 +11,32 @@
     height: 534px;
     background-color: white;
     display: flex;
-
 }
 
-.loggin__box--hello {
-    font-size: 64px;
+.login__box--hello {
+    font-size: 64px; 
     font-weight: 600;
     line-height: 96px;
     padding-top: 52px;
+}
+
+.login__box--space {
     padding-left: 77px;
+}
+
+.login__box--form {
+    line-height: 3;
+}
+
+.login__box--form h1{
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 22px;
+}
+
+.login__box--form input{
+    padding-top: 4px;
+    border-radius: 8px;
+    border: 1px solid #A8A8B3;
+    padding: 10px;
 }
