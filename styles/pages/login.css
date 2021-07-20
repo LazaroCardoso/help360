@@ -1,3 +1,12 @@
 @import url('/styles/utils/index.css');
 @import url('/styles/components/logobar.css');
 @import url('/styles/components/login.css');
+
+a {
+    color: black;
+    font-size: 20px;
+}
+
+a:visited {
+    color: black;
+}
